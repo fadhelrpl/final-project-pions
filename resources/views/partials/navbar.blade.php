@@ -12,7 +12,7 @@
         {{-- DROPdown About Us (Desktop) --}}
         <div class="relative" x-data="{ open: false }" @mouseenter="open = true" @mouseleave="open = false">
             <a href="#"
-                class="px-6 py-2 rounded-md text-md text-black font-normal capitalize cursor-pointer">
+                class="px-6 py-2 rounded-md text-md text-black font-normal capitalize cursor-default">
                 About Us
             </a>
 
